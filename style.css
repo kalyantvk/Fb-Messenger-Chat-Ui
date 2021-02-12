@@ -1,0 +1,9 @@
+.self {
+  margin-left: auto;
+  width: fit-content;
+  max-width: 50%;
+}
+.other {
+  width: fit-content;
+  max-width: 50%;
+}
